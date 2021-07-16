@@ -18,3 +18,8 @@ This dataset collects information from 100k medical appointments in Brazil and i
 - Be careful about the encoding of the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
 
 **Steps**:
+- Data Wrangling
+- Exploratory Data Analysis
+- Conclusions
+
+**For more details please check .ipyp file or my report as .html file**
